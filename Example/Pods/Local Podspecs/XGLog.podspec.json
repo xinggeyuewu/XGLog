@@ -1,0 +1,22 @@
+{
+  "name": "XGLog",
+  "version": "0.1.0",
+  "summary": "A short description of XGLog.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ChangeLifeXu/XGLog",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ChangeLifeXu": "1012863509@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/ChangeLifeXu/XGLog.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XGLog/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module XGLog {
+  umbrella header "XGLog-umbrella.h"
+
+  export *
+  module * { export * }
+}

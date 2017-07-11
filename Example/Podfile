@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'XGLog_Example' do
+  pod 'XGLog', :path => '../'
+
+  target 'XGLog_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
