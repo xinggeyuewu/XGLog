@@ -24,7 +24,7 @@ Solve the problem of Chinese display when output
   s.homepage         = 'https://github.com/xinggeyuewu/XGLog.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'xingge' => '514595638@qq.com' }
+  s.author           = { 'xinggeyuewu' => '514595638@qq.com' }
   s.source           = { :git => 'https://github.com/xinggeyuewu/XGLog.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
